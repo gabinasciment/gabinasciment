@@ -1,8 +1,8 @@
-# Gabriela Nascimento 👋
+# Gabriela Nascimento 
 
 🎓 Graduanda em Ciência da Computação na FAESA, atualmente no 4º período.
 
-## 💻 Sobre mim
+## Sobre mim
 
 Sou estudante de Ciência da Computação e estou construindo minha trajetória na área de tecnologia por meio dos estudos, de projetos acadêmicos e de experiências profissionais.
 
@@ -57,4 +57,4 @@ Projeto educacional de desenvolvimento web utilizando HTML, CSS e JavaScript.
 
 ---
 
-✨ Obrigada pela visita! Fique à vontade para conhecer meus projetos e acompanhar minha jornada de aprendizado.
+Obrigada pela visita! Fique à vontade para conhecer meus projetos e acompanhar minha jornada de aprendizado.
